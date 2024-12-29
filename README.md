@@ -1,6 +1,8 @@
 # Asteroid-orbital
 this dataset which is officially maintained by Jet Propulsion Laboratory of California Institute of Technology which is an organization under NASA.
 
+Data is used directly from the Kaggle Platform
+
 This is a model predicting the orbital_period using the data features.
 
 Model breakdown is as follows,
