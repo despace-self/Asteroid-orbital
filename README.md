@@ -19,6 +19,11 @@ Additionally, I also extended the model:
 RFR as helper to a DNN Base but the result accuracy has been degraded than the first model, so i wont be including that
 in this.
 
+Model Metrics -
+Random Forest Regression - Mean Squared Error: 34.323770564723
+Random Forest Regression - R² Score: 0.991619243286325
+Feature Importances:  [0.51837609 0.47346348 0.00334849 0.00219812 0.00261382]
+
 Constructive feedbacks are highly appreciated.
 
 Happy coding!
